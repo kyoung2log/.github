@@ -6,7 +6,8 @@
 
 
 ## 🍣🍜🍱🍺
-- [HTML-CSS](https://github.com/kyoung2log/Html-Css)
+- [HTML/CSS](https://github.com/kyoung2log/Html-Css)
+- [WebBrowser](https://github.com/kyoung2log/WebBrowser)
 - [JavaScript](https://github.com/kyoung2log/JavaScript)
 - [TypeScript](https://github.com/kyoung2log/TypeScript)
 - [Algorithm](https://github.com/kyoung2log/Algorithm)
