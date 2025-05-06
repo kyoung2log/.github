@@ -31,6 +31,7 @@
 
 ## ✏️ 최근 작성한 글
 
+- [Server-Sent Events 톺아보기](https://velog.io/@devkyoung2/Server-Sent-Events-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-4ym65cj7)
 - [V8 엔진에서는 해시충돌을 어떻게 처리할까 ?](https://velog.io/@devkyoung2/V8-%EC%97%94%EC%A7%84%EC%97%90%EC%84%9C%EB%8A%94-%ED%95%B4%EC%8B%9C%EC%B6%A9%EB%8F%8C%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%A0%EA%B9%8C-qo1flj2f)
 - [구글 플레이 스토어에 앱 출시하기(feat. 빼곡)](https://velog.io/@devkyoung2/%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%90-%EC%95%B1-%EC%B6%9C%EC%8B%9C%ED%95%98%EA%B8%B0)
 - [SameSite 정책을 이해하고 로컬 환경에서 액세스 토큰 재발급 문제 해결하기](https://velog.io/@devkyoung2/SameSite-%EC%A0%95%EC%B1%85%EC%9D%84-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EB%A1%9C%EC%BB%AC-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%95%A1%EC%84%B8%EC%8A%A4-%ED%86%A0%ED%81%B0-%EC%9E%AC%EB%B0%9C%EA%B8%89-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
